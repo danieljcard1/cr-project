@@ -15,7 +15,7 @@ website:
   navbar:
     tools:
       - icon: github
-        url: https://danieljcard1.github.io/cr-project/ # url for site is https:// + your github username + .github.io/ + R project name + /
+        url: https://github.com/danieljcard1/cr-project # url for site is https://github.com + your github username + / + R project name 
         aria-label: Github
     left:
       - href: index.qmd
